@@ -25,3 +25,11 @@ pip install yeelight
 ## Minecraft
 - Setup a minecraft server (I use Spigot version 1.16.5)
 - Drag ``Raspberry Juice`` to plugin folder
+
+
+# Setup
+- Create a set of blocks with different color for trigger. Here I use ``redstone block`` for red, lapis ``lazuli block`` for blue, and ``grass block`` for green.
+- Specify the smart bulb's IP in line 9 of ``main.py``
+- Specify Minecraft server's IP and port in line 10 of ``main.py``
+- Activate the program with ``python main.py``
+- It should work
