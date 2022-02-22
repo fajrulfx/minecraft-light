@@ -28,8 +28,9 @@ pip install yeelight
 
 
 # Setup
-- Create a set of blocks with different color for trigger. Here I use ``redstone block`` for red, lapis ``lazuli block`` for blue, and ``grass block`` for green.
+- Create a set of blocks with different color for trigger. Here I use ``redstone block`` for red, lapis ``lazuli block`` for blue, ``grass block`` for green, and ``sand block`` for yellow.
 - Specify the smart bulb's IP in line 9 of ``main.py``
 - Specify Minecraft server's IP and port in line 10 of ``main.py``
 - Activate the program with ``python main.py``
+- Program with brightness control can be used with ``python brightness.py``
 - It should work
