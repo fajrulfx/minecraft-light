@@ -1,5 +1,5 @@
 # 💡 minecraft-light
-A simple program to control smart bulb using Minecraft
+A simple program to control smart bulb using Minecraft. I use this program for one of my video on Youtube.
 
 # Dependencies
 Hardware:
